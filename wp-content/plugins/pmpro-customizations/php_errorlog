@@ -1,0 +1,4 @@
+[28-Sep-2015 05:01:41 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/gocredit/public_html/wp-content/plugins/pmpro-customizations/pmpro-customizations-v1.php on line 33
+[28-Sep-2015 05:04:30 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/gocredit/public_html/wp-content/plugins/pmpro-customizations/pmpro-customizations.php on line 33
+[29-Nov-2015 23:00:41 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/gocredit/public_html/wp-content/plugins/pmpro-customizations/pmpro-customizations.php on line 33
+[30-Nov-2015 11:38:32 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/gocredit/public_html/wp-content/plugins/pmpro-customizations/pmpro-customizations-v1.php on line 33

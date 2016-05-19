@@ -1,0 +1,6 @@
+[05-Feb-2016 16:38:38 CST6CDT] PHP Fatal error:  Call to undefined function wp_nonce_field() in /home/gocredit/public_html/wp-content/plugins/wordpress-https/admin/templates/metabox/post.php on line 17
+[05-Feb-2016 16:38:45 CST6CDT] PHP Fatal error:  Using $this when not in object context in /home/gocredit/public_html/wp-content/plugins/wordpress-https/admin/templates/metabox/domain_mapping.php on line 1
+[05-Feb-2016 16:39:00 CST6CDT] PHP Fatal error:  Using $this when not in object context in /home/gocredit/public_html/wp-content/plugins/wordpress-https/admin/templates/metabox/network.php on line 1
+[05-Feb-2016 16:39:50 CST6CDT] PHP Fatal error:  Using $this when not in object context in /home/gocredit/public_html/wp-content/plugins/wordpress-https/admin/templates/metabox/settings.php on line 3
+[05-Feb-2016 16:40:00 CST6CDT] PHP Fatal error:  Call to undefined function wp_create_nonce() in /home/gocredit/public_html/wp-content/plugins/wordpress-https/admin/templates/metabox/ajax.php on line 2
+[05-Feb-2016 16:40:51 CST6CDT] PHP Fatal error:  Using $this when not in object context in /home/gocredit/public_html/wp-content/plugins/wordpress-https/admin/templates/metabox/filters.php on line 1

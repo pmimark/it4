@@ -1,0 +1,12 @@
+[28-Sep-2015 05:06:47 CST6CDT] PHP Fatal error:  Call to undefined function __() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/pages/confirmation.php on line 12
+[28-Sep-2015 05:07:00 CST6CDT] PHP Fatal error:  Call to undefined function _e() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 13
+[28-Sep-2015 05:08:08 CST6CDT] PHP Fatal error:  Call to undefined function apply_filters() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/pages/checkout.php on line 12
+[28-Sep-2015 05:08:31 CST6CDT] PHP Fatal error:  Call to undefined function apply_filters() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/pages/billing.php on line 12
+[28-Sep-2015 05:08:34 CST6CDT] PHP Fatal error:  Call to a member function get_results() on null in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/pages/invoice.php on line 100
+[28-Sep-2015 05:09:05 CST6CDT] PHP Fatal error:  Call to undefined function pmpro_shortcode_account() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/pages/account.php on line 2
+[03-Dec-2015 14:26:18 CST6CDT] PHP Fatal error:  Call to undefined function _e() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/pages/levels.php on line 13
+[03-Dec-2015 19:56:15 CST6CDT] PHP Fatal error:  Call to undefined function apply_filters() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/pages/checkout.php on line 12
+[04-Dec-2015 00:31:21 CST6CDT] PHP Fatal error:  Call to undefined function apply_filters() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/pages/billing.php on line 12
+[04-Dec-2015 01:46:48 CST6CDT] PHP Fatal error:  Call to a member function get_results() on null in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/pages/invoice.php on line 100
+[04-Dec-2015 03:02:34 CST6CDT] PHP Fatal error:  Call to undefined function pmpro_shortcode_account() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/pages/account.php on line 2
+[05-Dec-2015 10:43:52 CST6CDT] PHP Fatal error:  Call to undefined function __() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/pages/confirmation.php on line 12

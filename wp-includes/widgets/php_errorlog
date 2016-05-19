@@ -1,0 +1,13 @@
+[26-Feb-2016 05:56:32 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/gocredit/public_html/wp-includes/widgets/class-wp-widget-search.php on line 17
+[26-Feb-2016 05:56:35 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/gocredit/public_html/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[26-Feb-2016 05:56:39 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/gocredit/public_html/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[26-Feb-2016 05:56:42 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/gocredit/public_html/wp-includes/widgets/class-wp-widget-text.php on line 17
+[26-Feb-2016 05:56:46 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/gocredit/public_html/wp-includes/widgets/class-wp-widget-links.php on line 17
+[26-Feb-2016 05:56:53 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/gocredit/public_html/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[26-Feb-2016 05:57:11 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/gocredit/public_html/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[26-Feb-2016 05:57:19 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/gocredit/public_html/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[26-Feb-2016 05:57:26 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/gocredit/public_html/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[26-Feb-2016 05:57:33 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/gocredit/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[26-Feb-2016 05:57:40 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/gocredit/public_html/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[26-Feb-2016 05:57:47 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/gocredit/public_html/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[26-Feb-2016 05:57:54 CST6CDT] PHP Fatal error:  Class 'WP_Widget' not found in /home/gocredit/public_html/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17

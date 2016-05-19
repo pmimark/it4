@@ -1,0 +1,6 @@
+[28-Sep-2015 05:01:20 CST6CDT] PHP Fatal error:  Call to undefined function plugin_dir_path() in /home/gocredit/public_html/wp-content/plugins/google-analytics-adder/settings.php on line 14
+[28-Sep-2015 05:01:22 CST6CDT] PHP Fatal error:  Call to undefined function plugin_dir_path() in /home/gocredit/public_html/wp-content/plugins/google-analytics-adder/settings.php on line 14
+[28-Sep-2015 05:02:55 CST6CDT] PHP Fatal error:  Call to undefined function get_option() in /home/gocredit/public_html/wp-content/plugins/google-analytics-adder/addGaToHead.php on line 2
+[27-Nov-2015 14:10:26 CST6CDT] PHP Fatal error:  Call to undefined function plugin_dir_path() in /home/gocredit/public_html/wp-content/plugins/google-analytics-adder/settings.php on line 14
+[27-Nov-2015 20:29:21 CST6CDT] PHP Fatal error:  Call to undefined function get_option() in /home/gocredit/public_html/wp-content/plugins/google-analytics-adder/addGaToHead.php on line 2
+[30-Nov-2015 04:03:49 CST6CDT] PHP Fatal error:  Call to undefined function plugin_dir_path() in /home/gocredit/public_html/wp-content/plugins/google-analytics-adder/settings.php on line 14

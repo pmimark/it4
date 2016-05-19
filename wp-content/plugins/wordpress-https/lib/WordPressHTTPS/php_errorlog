@@ -1,0 +1,1 @@
+[05-Feb-2016 16:32:55 CST6CDT] PHP Fatal error:  Interface 'Mvied_Logger_Interface' not found in /home/gocredit/public_html/wp-content/plugins/wordpress-https/lib/WordPressHTTPS/Logger.php on line 10

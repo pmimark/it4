@@ -1,0 +1,10 @@
+[28-Sep-2015 10:06:16 UTC] PHP Fatal error:  Call to undefined function pmpro_cron_credit_card_expiring_warnings() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/scheduled/creditcardexpiringwarnings.php on line 10
+[28-Sep-2015 10:06:39 UTC] PHP Fatal error:  Call to undefined function pmpro_cron_expire_memberships() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/scheduled/expirememberships.php on line 10
+[28-Sep-2015 10:07:13 UTC] PHP Fatal error:  Call to undefined function pmpro_cron_trial_ending_warnings() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/scheduled/trialendingwarnings.php on line 10
+[28-Sep-2015 10:10:02 UTC] PHP Fatal error:  Call to undefined function pmpro_cron_expiration_warnings() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/scheduled/expirationwarnings.php on line 10
+[28-Sep-2015 05:10:05 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/scheduled/crons.php on line 5
+[04-Dec-2015 11:53:03 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/scheduled/crons.php on line 5
+[11-Dec-2015 01:53:28 UTC] PHP Fatal error:  Call to undefined function pmpro_cron_expire_memberships() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/scheduled/expirememberships.php on line 10
+[11-Dec-2015 14:26:16 UTC] PHP Fatal error:  Call to undefined function pmpro_cron_expiration_warnings() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/scheduled/expirationwarnings.php on line 10
+[11-Dec-2015 15:42:03 UTC] PHP Fatal error:  Call to undefined function pmpro_cron_trial_ending_warnings() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/scheduled/trialendingwarnings.php on line 10
+[11-Dec-2015 18:13:37 UTC] PHP Fatal error:  Call to undefined function pmpro_cron_credit_card_expiring_warnings() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/scheduled/creditcardexpiringwarnings.php on line 10

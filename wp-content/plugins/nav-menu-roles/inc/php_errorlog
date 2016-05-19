@@ -1,0 +1,2 @@
+[28-Sep-2015 05:08:09 CST6CDT] PHP Fatal error:  Class 'Walker_Nav_Menu' not found in /home/gocredit/public_html/wp-content/plugins/nav-menu-roles/inc/class.Walker_Nav_Menu_Edit_Roles.php on line 12
+[11-Dec-2015 00:37:25 CST6CDT] PHP Fatal error:  Class 'Walker_Nav_Menu' not found in /home/gocredit/public_html/wp-content/plugins/nav-menu-roles/inc/class.Walker_Nav_Menu_Edit_Roles.php on line 12

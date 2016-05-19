@@ -1,0 +1,14 @@
+[28-Sep-2015 05:08:01 CST6CDT] PHP Fatal error:  Call to undefined function pmpro_getOption() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/preheaders/billing.php on line 8
+[28-Sep-2015 05:08:05 CST6CDT] PHP Fatal error:  Call to undefined function apply_filters() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/preheaders/confirmation.php on line 13
+[28-Sep-2015 05:08:19 CST6CDT] PHP Fatal error:  Call to undefined function wp_redirect() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/preheaders/cancel.php on line 13
+[28-Sep-2015 05:08:47 CST6CDT] PHP Fatal error:  Call to undefined function pmpro_getOption() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/preheaders/checkout.php on line 21
+[28-Sep-2015 05:09:01 CST6CDT] PHP Fatal error:  Call to undefined function is_user_logged_in() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/preheaders/invoice.php on line 8
+[28-Sep-2015 05:09:26 CST6CDT] PHP Fatal error:  Call to undefined function pmpro_getAllLevels() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/preheaders/levels.php on line 33
+[28-Sep-2015 05:10:12 CST6CDT] PHP Fatal error:  Call to undefined function apply_filters() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/preheaders/account.php on line 21
+[05-Dec-2015 01:53:23 CST6CDT] PHP Fatal error:  Call to undefined function wp_redirect() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/preheaders/cancel.php on line 13
+[05-Dec-2015 04:24:57 CST6CDT] PHP Fatal error:  Call to undefined function pmpro_getAllLevels() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/preheaders/levels.php on line 33
+[05-Dec-2015 14:31:17 CST6CDT] PHP Fatal error:  Call to undefined function pmpro_getOption() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/preheaders/billing.php on line 8
+[05-Dec-2015 15:47:01 CST6CDT] PHP Fatal error:  Call to undefined function is_user_logged_in() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/preheaders/invoice.php on line 8
+[05-Dec-2015 22:06:23 CST6CDT] PHP Fatal error:  Call to undefined function apply_filters() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/preheaders/account.php on line 21
+[06-Dec-2015 09:27:58 CST6CDT] PHP Fatal error:  Call to undefined function pmpro_getOption() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/preheaders/checkout.php on line 21
+[09-Dec-2015 12:18:52 CST6CDT] PHP Fatal error:  Call to undefined function apply_filters() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/preheaders/confirmation.php on line 13

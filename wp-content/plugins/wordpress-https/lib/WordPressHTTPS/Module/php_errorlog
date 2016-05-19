@@ -1,0 +1,9 @@
+[05-Feb-2016 16:38:23 CST6CDT] PHP Fatal error:  Class 'Mvied_Plugin_Module' not found in /home/gocredit/public_html/wp-content/plugins/wordpress-https/lib/WordPressHTTPS/Module/Core.php on line 10
+[05-Feb-2016 16:38:33 CST6CDT] PHP Fatal error:  Class 'Mvied_Plugin_Module' not found in /home/gocredit/public_html/wp-content/plugins/wordpress-https/lib/WordPressHTTPS/Module/Admin.php on line 12
+[05-Feb-2016 16:39:10 CST6CDT] PHP Fatal error:  Class 'Mvied_Plugin_Module' not found in /home/gocredit/public_html/wp-content/plugins/wordpress-https/lib/WordPressHTTPS/Module/Settings.php on line 12
+[05-Feb-2016 16:39:20 CST6CDT] PHP Fatal error:  Class 'Mvied_Plugin_Module' not found in /home/gocredit/public_html/wp-content/plugins/wordpress-https/lib/WordPressHTTPS/Module/UrlFilters.php on line 12
+[05-Feb-2016 16:40:10 CST6CDT] PHP Fatal error:  Class 'Mvied_Plugin_Module' not found in /home/gocredit/public_html/wp-content/plugins/wordpress-https/lib/WordPressHTTPS/Module/DomainMapping.php on line 12
+[05-Feb-2016 16:40:20 CST6CDT] PHP Fatal error:  Class 'Mvied_Plugin_Module' not found in /home/gocredit/public_html/wp-content/plugins/wordpress-https/lib/WordPressHTTPS/Module/Parser.php on line 10
+[05-Feb-2016 16:40:30 CST6CDT] PHP Fatal error:  Class 'Mvied_Plugin_Module' not found in /home/gocredit/public_html/wp-content/plugins/wordpress-https/lib/WordPressHTTPS/Module/Post.php on line 12
+[05-Feb-2016 16:40:40 CST6CDT] PHP Fatal error:  Class 'Mvied_Plugin_Module' not found in /home/gocredit/public_html/wp-content/plugins/wordpress-https/lib/WordPressHTTPS/Module/Network.php on line 12
+[06-Feb-2016 05:30:40 CST6CDT] PHP Fatal error:  Class 'Mvied_Plugin_Module' not found in /home/gocredit/public_html/wp-content/plugins/wordpress-https/lib/WordPressHTTPS/Module/Ecommerce.php on line 10

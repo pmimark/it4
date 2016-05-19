@@ -1,0 +1,8 @@
+[28-Sep-2015 05:11:09 CST6CDT] PHP Fatal error:  Call to undefined function apply_filters() in /home/gocredit/public_html/wp-content/plugins/google-analytics-adder/lib/metabox/init.php on line 36
+[28-Sep-2015 05:13:16 CST6CDT] PHP Fatal error:  Call to undefined function add_filter() in /home/gocredit/public_html/wp-content/plugins/google-analytics-adder/lib/metabox/example-functions.php on line 11
+[31-Jan-2016 21:51:00 CST6CDT] PHP Fatal error:  Call to undefined function apply_filters() in /home/gocredit/public_html/wp-content/plugins/google-analytics-adder/lib/metabox/init.php on line 36
+[08-Feb-2016 04:16:14 CST6CDT] PHP Fatal error:  Call to undefined function add_filter() in /home/gocredit/public_html/wp-content/plugins/google-analytics-adder/lib/metabox/example-functions.php on line 11
+[11-Feb-2016 08:27:17 CST6CDT] PHP Fatal error:  Call to undefined function apply_filters() in /home/gocredit/public_html/wp-content/plugins/google-analytics-adder/lib/metabox/init.php on line 36
+[23-Feb-2016 19:25:43 CST6CDT] PHP Fatal error:  Call to undefined function add_filter() in /home/gocredit/public_html/wp-content/plugins/google-analytics-adder/lib/metabox/example-functions.php on line 11
+[14-Apr-2016 02:44:22 CST6CDT] PHP Fatal error:  Call to undefined function apply_filters() in /home/gocredit/public_html/wp-content/plugins/google-analytics-adder/lib/metabox/init.php on line 36
+[14-Apr-2016 02:45:53 CST6CDT] PHP Fatal error:  Call to undefined function add_filter() in /home/gocredit/public_html/wp-content/plugins/google-analytics-adder/lib/metabox/example-functions.php on line 11

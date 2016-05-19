@@ -1,0 +1,3 @@
+[28-Sep-2015 11:07:44 CST6CDT] PHP Fatal error:  Call to undefined function screen_icon() in /home/gocredit/public_html/wp-content/plugins/simple-membership-custom-messages/views/custom-message-settings.php on line 1
+[04-Jan-2016 15:22:30 CST6CDT] PHP Fatal error:  Call to undefined function screen_icon() in /home/gocredit/public_html/wp-content/plugins/simple-membership-custom-messages/views/custom-message-settings.php on line 1
+[29-Apr-2016 15:48:14 CST6CDT] PHP Fatal error:  Call to undefined function screen_icon() in /home/gocredit/public_html/wp-content/plugins/simple-membership-custom-messages/views/custom-message-settings.php on line 1

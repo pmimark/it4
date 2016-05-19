@@ -1,0 +1,3 @@
+[28-Sep-2015 05:27:49 CST6CDT] PHP Fatal error:  Class 'Braintree_Collection' not found in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/includes/lib/Braintree/Braintree/Error/ValidationErrorCollection.php on line 25
+[13-Feb-2016 14:21:11 CST6CDT] PHP Fatal error:  Class 'Braintree_Collection' not found in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/includes/lib/Braintree/Braintree/Error/ValidationErrorCollection.php on line 25
+[05-May-2016 17:48:31 CST6CDT] PHP Fatal error:  Class 'Braintree_Collection' not found in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/includes/lib/Braintree/Braintree/Error/ValidationErrorCollection.php on line 25

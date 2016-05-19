@@ -1,0 +1,2 @@
+[27-Oct-2015 20:57:32 CST6CDT] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/gocredit/public_html/wp-admin/includes/class-wp-filesystem-ssh2.php on line 36
+[07-Mar-2016 01:55:28 CST6CDT] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/gocredit/public_html/wp-admin/includes/class-wp-filesystem-ssh2.php on line 36

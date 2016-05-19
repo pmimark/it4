@@ -1,0 +1,4 @@
+[26-Oct-2015 22:57:57 CST6CDT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/gocredit/public_html/wp-content/themes/twentyfifteen/functions.php on line 41
+[28-Oct-2015 04:49:33 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/gocredit/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[05-Mar-2016 18:27:11 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/gocredit/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[06-Mar-2016 11:20:59 CST6CDT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/gocredit/public_html/wp-content/themes/twentyfifteen/functions.php on line 41

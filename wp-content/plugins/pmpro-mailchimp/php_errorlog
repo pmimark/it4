@@ -1,0 +1,2 @@
+[28-Sep-2015 05:01:56 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/gocredit/public_html/wp-content/plugins/pmpro-mailchimp/pmpro-mailchimp.php on line 64
+[27-Nov-2015 16:42:00 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/gocredit/public_html/wp-content/plugins/pmpro-mailchimp/pmpro-mailchimp.php on line 64

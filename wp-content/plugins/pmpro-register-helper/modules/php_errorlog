@@ -1,0 +1,8 @@
+[28-Sep-2015 05:08:36 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/gocredit/public_html/wp-content/plugins/pmpro-register-helper/modules/register-form.php on line 141
+[28-Sep-2015 05:09:16 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/gocredit/public_html/wp-content/plugins/pmpro-register-helper/modules/profile.php on line 53
+[28-Sep-2015 05:10:11 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/gocredit/public_html/wp-content/plugins/pmpro-register-helper/modules/directory.php on line 26
+[28-Sep-2015 05:10:26 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/gocredit/public_html/wp-content/plugins/pmpro-register-helper/modules/change-password.php on line 57
+[04-Dec-2015 17:02:53 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/gocredit/public_html/wp-content/plugins/pmpro-register-helper/modules/profile.php on line 53
+[05-Dec-2015 20:50:08 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/gocredit/public_html/wp-content/plugins/pmpro-register-helper/modules/directory.php on line 26
+[08-Dec-2015 18:37:54 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/gocredit/public_html/wp-content/plugins/pmpro-register-helper/modules/register-form.php on line 141
+[10-Dec-2015 07:15:37 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/gocredit/public_html/wp-content/plugins/pmpro-register-helper/modules/change-password.php on line 57

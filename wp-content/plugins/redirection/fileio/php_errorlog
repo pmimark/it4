@@ -1,0 +1,4 @@
+[14-May-2016 10:21:51 CST6CDT] PHP Fatal error:  Class 'Red_FileIO' not found in /home/gocredit/public_html/wp-content/plugins/redirection/fileio/csv.php on line 3
+[14-May-2016 10:21:53 CST6CDT] PHP Fatal error:  Class 'Red_FileIO' not found in /home/gocredit/public_html/wp-content/plugins/redirection/fileio/rss.php on line 3
+[14-May-2016 10:22:13 CST6CDT] PHP Fatal error:  Class 'Red_FileIO' not found in /home/gocredit/public_html/wp-content/plugins/redirection/fileio/nginx.php on line 3
+[14-May-2016 10:22:29 CST6CDT] PHP Fatal error:  Class 'Red_FileIO' not found in /home/gocredit/public_html/wp-content/plugins/redirection/fileio/apache.php on line 3

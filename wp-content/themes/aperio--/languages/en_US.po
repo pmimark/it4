@@ -1,0 +1,3573 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Aperio\n"
+"POT-Creation-Date: 2015-02-24 16:37+0530\n"
+"PO-Revision-Date: 2015-02-24 16:37+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:11
+msgid "Error: 404"
+msgstr ""
+
+#: ../404.php:14
+msgid "404 error, couldn't find the content you were looking for."
+msgstr ""
+
+#: ../comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:16
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:16
+msgid "One Comment"
+msgstr ""
+
+#: ../comments.php:16
+#: ../framework/templates/blog/posts/post-format-grid/post-link.php:51
+#: ../framework/templates/blog/posts/post-format-grid/post-quote.php:51
+#: ../framework/templates/blog/posts/post-format-grid/post.php:76
+#: ../framework/templates/blog/posts/post-format/post-link.php:53
+#: ../framework/templates/blog/posts/post-format/post-quote.php:53
+#: ../framework/templates/blog/posts/post-format/post.php:118
+#: ../framework/templates/singlepost/post-format/post-link.php:53
+#: ../framework/templates/singlepost/post-format/post-quote.php:53
+#: ../framework/templates/singlepost/post-format/post.php:114
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:48
+msgid "Name*"
+msgstr ""
+
+#: ../comments.php:49
+msgid "E-Mail*"
+msgstr ""
+
+#: ../comments.php:50
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:56
+msgid "Leave a reply"
+msgstr ""
+
+#: ../comments.php:58
+msgid "Submit comment"
+msgstr ""
+
+#: ../footer.php:47
+msgid "Go to Top"
+msgstr ""
+
+#: ../framework/ReduxCore/extensions/customizer/extension_customizer.php:466
+#: ../framework/ReduxCore/framework.php:1903
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: ../framework/ReduxCore/extensions/customizer/extension_customizer.php:467
+#: ../framework/ReduxCore/framework.php:1911
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: ../framework/ReduxCore/extensions/customizer/extension_customizer.php:468
+#: ../framework/ReduxCore/framework.php:1927
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../framework/ReduxCore/extensions/customizer/extension_customizer.php:501
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: ../framework/ReduxCore/extensions/customizer/extension_customizer.php:502
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: ../framework/ReduxCore/extensions/customizer/extension_customizer.php:503
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:290
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:290
+msgid "Redux Framework"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:294
+#: ../framework/ReduxCore/framework.php:298
+#: ../framework/ReduxCore/framework.php:1424
+msgid "Options"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:1363
+#: ../framework/ReduxCore/framework.php:1364
+#: ../framework/ReduxCore/framework.php:3504
+#: ../framework/ReduxCore/framework.php:3583
+msgid "System Info"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:1919
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:1934
+msgid "Please Wait"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:2080
+msgid "Hints"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:2081
+msgid "<p>"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:2205
+#: ../framework/brad-shortcodes/tinymce/config.php:807
+#: ../framework/brad-shortcodes/tinymce/config.php:896
+#: ../framework/brad-shortcodes/tinymce/config.php:914
+#: ../framework/brad-shortcodes/tinymce/config.php:1031
+#: ../framework/brad-shortcodes/tinymce/config.php:1096
+#: ../framework/metabox.php:66 ../framework/metabox.php:324
+msgid "Default"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:3256
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:3330
+msgid "Expand"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:3332
+#: ../framework/ReduxCore/framework.php:3640
+msgid "Save Changes"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:3336
+#: ../framework/ReduxCore/framework.php:3644
+msgid "Reset Section"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:3338
+#: ../framework/ReduxCore/framework.php:3646
+msgid "Reset All"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:3343
+#: ../framework/ReduxCore/framework.php:3651
+msgid "Working..."
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:3363
+msgid "Settings Imported!"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:3378
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:3392
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:3406
+msgid "Settings Saved!"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:3424
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:3432
+msgid "error(s) were found!"
+msgstr ""
+
+#: ../framework/ReduxCore/framework.php:3440
+msgid "warning(s) were found!"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/class.redux_functions.php:251
+msgid "Dismiss"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/debug.php:41
+#: ../framework/ReduxCore/inc/debug.php:69
+#: ../framework/ReduxCore/inc/debug.php:76
+#: ../framework/ReduxCore/inc/debug.php:77
+msgid "Options Object"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/background/field_background.php:124
+#: ../framework/ReduxCore/inc/fields/color/field_color.php:72
+#: ../framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79
+#: ../framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/background/field_background.php:277
+#: ../framework/ReduxCore/inc/fields/media/field_media.php:112
+msgid "No media selected"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/background/field_background.php:314
+#: ../framework/ReduxCore/inc/fields/file/field_file.php:66
+#: ../framework/ReduxCore/inc/fields/media/field_media.php:154
+#: ../framework/ReduxCore/inc/fields/slides/field_slides.php:126
+#: ../framework/ReduxCore/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/background/field_background.php:321
+#: ../framework/ReduxCore/inc/fields/file/field_file.php:73
+#: ../framework/ReduxCore/inc/fields/media/field_media.php:161
+#: ../framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:68
+#: ../framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:72
+#: ../framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:75
+#: ../framework/ReduxCore/inc/fields/slides/field_slides.php:133
+#: ../framework/ReduxCore/inc/fields/slides/field_slides.php:190
+#: ../framework/brad-megamenu/edit_custom_walker.php:266
+msgid "Remove"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/border/field_border.php:114
+#: ../framework/ReduxCore/inc/fields/spacing/field_spacing.php:191
+#: ../vc_templates/vc_portfolio.php:115
+msgid "All"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/border/field_border.php:127
+#: ../framework/ReduxCore/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/border/field_border.php:134
+#: ../framework/ReduxCore/inc/fields/spacing/field_spacing.php:222
+#: ../framework/brad-shortcodes/tinymce/config.php:796
+#: ../framework/brad-shortcodes/tinymce/config.php:1141
+msgid "Right"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/border/field_border.php:141
+#: ../framework/ReduxCore/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/border/field_border.php:148
+#: ../framework/ReduxCore/inc/fields/spacing/field_spacing.php:236
+#: ../framework/brad-shortcodes/tinymce/config.php:1141
+msgid "Left"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/border/field_border.php:162
+msgid "Border style"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:161
+msgid "Width"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:177
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:464
+msgid "Height"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:188
+#: ../framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:189
+#: ../framework/ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: ../framework/ReduxCore/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:60
+msgid "Add More"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/password/field_password.php:62
+#: ../woocommerce/global/form-login.php:27
+#: ../woocommerce/myaccount/form-login.php:33
+#: ../woocommerce/myaccount/form-login.php:78
+msgid "Password"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/password/field_password.php:63
+#: ../woocommerce/myaccount/form-login.php:65
+msgid "Username"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/select/field_select.php:82
+#: ../framework/ReduxCore/inc/fields/select_image/field_select_image.php:62
+msgid "Select an item"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/select/field_select.php:126
+#: ../framework/ReduxCore/inc/fields/select_image/field_select_image.php:143
+msgid "No items of this type were found."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/slides/field_slides.php:68
+#: ../framework/custom-posts.php:353
+msgid "Slide"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/slides/field_slides.php:73
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/slides/field_slides.php:145
+#: ../framework/ReduxCore/inc/fields/slides/field_slides.php:200
+#: ../framework/brad-shortcodes/tinymce/config.php:570
+#: ../framework/custom-posts.php:77
+msgid "Title"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/slides/field_slides.php:149
+#: ../framework/ReduxCore/inc/fields/slides/field_slides.php:204
+#: ../framework/brad-megamenu/edit_custom_walker.php:197
+msgid "Description"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/slides/field_slides.php:153
+#: ../framework/ReduxCore/inc/fields/slides/field_slides.php:207
+#: ../framework/brad-megamenu/edit_custom_walker.php:160
+msgid "URL"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/slides/field_slides.php:167
+#: ../framework/ReduxCore/inc/fields/slides/field_slides.php:220
+#, php-format
+msgid "Delete %s"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/switch/field_switch.php:42
+msgid "On"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/switch/field_switch.php:49
+msgid "Off"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:236
+msgid "Standard + Google"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:237
+msgid "Premium"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:253
+msgid "Enter of paste the font name"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:254
+msgid "Font Name"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:265
+msgid "Font Family"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:266
+msgid "Font family"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:292
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:293
+msgid "Backup Font Family"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:307
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:314
+msgid "Font style"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:308
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:314
+#: ../framework/brad-shortcodes/tinymce/config.php:238
+#: ../framework/brad-shortcodes/tinymce/config.php:377
+#: ../framework/brad-shortcodes/tinymce/config.php:895
+msgid "Style"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:344
+msgid "Font subsets"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:346
+msgid "Font Subsets"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:347
+msgid "Subsets"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:347
+msgid "Font script"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:364
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:365
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:366
+msgid "Text Align"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:387
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:388
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:389
+msgid "Text Transform"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:410
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:411
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:412
+msgid "Font Variant"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:430
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:431
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:432
+msgid "Text Decoration"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:454
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:455
+msgid "Font Size"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:455
+#: ../framework/brad-shortcodes/tinymce/config.php:903
+msgid "Size"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:463
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:464
+msgid "Line Height"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:472
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:473
+msgid "Word Spacing"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:481
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:482
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:500
+msgid "Font Color"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:502
+msgid "Font color"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:840
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/fields/typography/field_typography.php:927
+msgid "Google Webfonts"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/import_export.php:78
+msgid "Import / Export Options"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/import_export.php:81
+msgid "Import Options"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/import_export.php:82
+msgid "Import from file"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/import_export.php:82
+msgid "Import from URL"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/import_export.php:85
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/import_export.php:90
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/import_export.php:94
+msgid "Import"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/import_export.php:94
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/import_export.php:97
+msgid "Export Options"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/import_export.php:100
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/import_export.php:104
+msgid "Copy"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/import_export.php:104
+msgid "Download"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/import_export.php:104
+msgid "Copy Link"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/import_export.php:140
+#: ../framework/ReduxCore/inc/import_export.php:149
+#: ../framework/ReduxCore/inc/import_export.php:150
+msgid "Import / Export"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:130
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:131
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatability."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:136
+msgid "Allow tracking"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:141
+msgid "Do not allow tracking"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:152
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:153
+msgid "Getting Started"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:153
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:153
+msgid "our documentation"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:154
+msgid "Redux Generator"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:154
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:155
+msgid "Redux Extensions"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:155
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:155
+msgid "extensions directory"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:156
+msgid "Like Redux?"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:156
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:156
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:156
+msgid "donation"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:157
+msgid "Newsletter"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:157
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:158
+#: ../woocommerce/myaccount/form-edit-account.php:31
+#: ../woocommerce/myaccount/form-login.php:72
+msgid "Email address"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:158
+msgid "Subscribe"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/tracking.php:167
+msgid "Close"
+msgstr ""
+
+#: ../framework/ReduxCore/inc/validation/color/validation_color.php:15
+#: ../framework/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+#: ../framework/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/validation/email/validation_email.php:16
+#: ../framework/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/validation/numeric/validation_numeric.php:16
+#: ../framework/ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../framework/ReduxCore/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ../framework/brad-love.php:76
+msgid "Love this"
+msgstr ""
+
+#: ../framework/brad-love.php:78
+msgid "Likes"
+msgstr ""
+
+#: ../framework/brad-love.php:82
+msgid "You already love this!"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: ../framework/brad-megamenu/edit_custom_walker.php:78
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: ../framework/brad-megamenu/edit_custom_walker.php:82
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../framework/brad-megamenu/edit_custom_walker.php:151
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../framework/brad-megamenu/edit_custom_walker.php:167
+msgid "Navigation Label"
+msgstr ""
+
+#: ../framework/brad-megamenu/edit_custom_walker.php:173
+msgid "Title Attribute"
+msgstr ""
+
+#: ../framework/brad-megamenu/edit_custom_walker.php:180
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../framework/brad-megamenu/edit_custom_walker.php:185
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../framework/brad-megamenu/edit_custom_walker.php:191
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../framework/brad-megamenu/edit_custom_walker.php:199
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: ../framework/brad-megamenu/edit_custom_walker.php:210
+#: ../framework/brad-shortcodes/tinymce/config.php:334
+#: ../framework/brad-shortcodes/tinymce/config.php:479
+#: ../framework/brad-shortcodes/tinymce/config.php:537
+#: ../framework/brad-shortcodes/tinymce/config.php:577
+#: ../framework/brad-shortcodes/tinymce/config.php:1010
+msgid "Icon"
+msgstr ""
+
+#: ../framework/brad-megamenu/edit_custom_walker.php:212
+msgid "Select Icon"
+msgstr ""
+
+#: ../framework/brad-megamenu/edit_custom_walker.php:219
+msgid "Columns"
+msgstr ""
+
+#: ../framework/brad-megamenu/edit_custom_walker.php:233
+msgid "Enable Mega Menu"
+msgstr ""
+
+#: ../framework/brad-megamenu/edit_custom_walker.php:240
+msgid "Hide Title"
+msgstr ""
+
+#: ../framework/brad-megamenu/edit_custom_walker.php:253
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../framework/brad-megamenu/edit_custom_walker.php:267
+#: ../woocommerce/myaccount/my-orders.php:74
+msgid "Cancel"
+msgstr ""
+
+#: ../framework/brad-shortcodes/shortcodes.php:18
+#: ../framework/templates/blog/posts/post-format-grid/post-link.php:64
+#: ../framework/templates/blog/posts/post-format-grid/post-quote.php:64
+#: ../framework/templates/blog/posts/post-format-grid/post.php:89
+#: ../framework/templates/blog/posts/post-format/post-link.php:61
+#: ../framework/templates/blog/posts/post-format/post-quote.php:61
+#: ../framework/templates/blog/posts/post-format/post.php:130
+#: ../framework/templates/singlepost/post-format/post-link.php:61
+#: ../framework/templates/singlepost/post-format/post-quote.php:61
+#: ../framework/templates/singlepost/post-format/post.php:126
+msgid "Share"
+msgstr ""
+
+#: ../framework/brad-shortcodes/shortcodes.php:182
+#: ../vc_templates/vc_posts_carousel.php:105
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../framework/brad-shortcodes/shortcodes.php:201
+#: ../framework/templates/blog/posts/post-format-grid/post-link.php:47
+#: ../framework/templates/blog/posts/post-format-grid/post-quote.php:47
+#: ../framework/templates/blog/posts/post-format-grid/post.php:72
+#: ../framework/templates/blog/posts/post-format/post-link.php:44
+#: ../framework/templates/blog/posts/post-format/post-quote.php:44
+#: ../framework/templates/blog/posts/post-format/post.php:101
+#: ../framework/templates/blog/posts/post-format/post.php:109
+#: ../framework/templates/singlepost/post-format/post-link.php:44
+#: ../framework/templates/singlepost/post-format/post-quote.php:44
+msgid "Read More"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:22
+msgid "Column Type"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:37
+msgid "Column Content"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:42
+msgid "Add Another Column"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:53
+#: ../framework/headers/social-icons.php:5
+msgid "Twitter"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:65
+msgid "Google Plus"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:76
+msgid "Linked In"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:87
+#: ../framework/headers/social-icons.php:14
+msgid "Facebook"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:98
+#: ../framework/headers/social-icons.php:44
+msgid "Pinterest"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:117
+msgid "Video Type"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:128
+msgid "Autoplay"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:139
+msgid "Video Id"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:156
+msgid "Drop Cap Container"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:167
+msgid "Drop Cap Container Background Color"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:174
+msgid "Drop Cap container Border Width"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:181
+msgid "Drop Cap Container Border Color"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:188
+msgid "Drop Cap Color"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:195
+msgid "Drop Cap container Border Radius"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:203
+msgid "Dropcap Content"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:204
+msgid "Enter the text for this button."
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:220
+msgid "Gap Height"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:221
+msgid ""
+"Enter the Gap Height in pixel <b>Note:</b> Do't include \"px\" only numbers"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:233
+msgid "Checklist"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:251
+#: ../framework/brad-shortcodes/tinymce/config.php:308
+#: ../framework/brad-shortcodes/tinymce/config.php:354
+#: ../framework/brad-shortcodes/tinymce/config.php:1041
+msgid "Icon Size"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:263
+msgid "List Icon"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:278
+#: ../framework/brad-shortcodes/tinymce/config.php:328
+msgid "List Item Content"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:284
+#: ../framework/brad-shortcodes/tinymce/config.php:341
+msgid "Add Another List Item"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:292
+msgid "Iconlist"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:297
+msgid "List Style"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:355
+msgid "Select the Icon size."
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:367
+#: ../framework/brad-shortcodes/tinymce/config.php:978
+msgid "Align"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:397
+msgid "Open Above link in lightbox? "
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:405
+msgid "icon Color"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:406
+#: ../framework/brad-shortcodes/tinymce/config.php:413
+msgid "Leave Blank for Default"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:412
+msgid "icon Color on hover"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:419
+msgid "Icon Boder Color "
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:426
+msgid "Border Width "
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:433
+msgid "Icon Border Color opacity"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:441
+#: ../framework/brad-shortcodes/tinymce/config.php:823
+#: ../framework/brad-shortcodes/tinymce/config.php:1065
+msgid "Icon Background Color"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:448
+msgid "Icon Background Color opacity "
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:456
+msgid "Icon Background Color on Hover"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:463
+msgid "Icon Background Color opacity on hover"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:471
+msgid "Enable Crease Background ? "
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:492
+msgid "Separator"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:496
+msgid "Border Type"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:506
+msgid "Border Thickness"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:516
+msgid "Separator Align"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:518
+#: ../framework/brad-shortcodes/tinymce/config.php:679
+#: ../framework/brad-shortcodes/tinymce/config.php:1019
+msgid "Align Left"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:519
+#: ../framework/brad-shortcodes/tinymce/config.php:680
+#: ../framework/brad-shortcodes/tinymce/config.php:981
+msgid "Align Center"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:520
+#: ../framework/brad-shortcodes/tinymce/config.php:681
+#: ../framework/brad-shortcodes/tinymce/config.php:1020
+msgid "Align Right"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:526
+#: ../framework/brad-shortcodes/tinymce/config.php:653
+msgid "Border Color"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:545
+msgid "Margin Top"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:547
+msgid "Default Top Margin in \"px\""
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:552
+#: ../framework/brad-shortcodes/tinymce/config.php:690
+msgid "Margin Bottom"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:554
+msgid "Default Bottom Margin in \"px\""
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:566
+msgid "label"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:584
+msgid "Heading Type"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:600
+#: ../framework/brad-shortcodes/tinymce/config.php:705
+msgid "Heading Style"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:602
+msgid "Simple Heading"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:603
+msgid "With Divider at the bottom"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:604
+msgid "With Divider in center"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:605
+msgid "Boxed Border with Divider"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:606
+msgid "Boxed Border"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:614
+msgid "Border Width"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:622
+msgid "Divider Height"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:630
+msgid "Divider Width"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:634
+msgid "Small (Default)"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:635
+msgid "Match With Text Length"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:636
+#: ../framework/brad-shortcodes/tinymce/config.php:973
+msgid "Full"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:637
+#: ../framework/brad-shortcodes/tinymce/config.php:772
+#: ../framework/brad-shortcodes/tinymce/config.php:1044
+#: ../framework/brad-shortcodes/tinymce/config.php:1098
+msgid "Medium"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:642
+msgid "Divider Color"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:646
+#: ../framework/brad-shortcodes/tinymce/config.php:657
+msgid "Dark"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:647
+#: ../framework/brad-shortcodes/tinymce/config.php:658
+msgid "Light"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:648
+#: ../framework/brad-shortcodes/tinymce/config.php:659
+msgid "Primary"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:666
+msgid "Color"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:677
+msgid "Heading Align"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:692
+msgid "Default Margin From Bottom in px"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:701
+msgid "Highlighted Text"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:715
+msgid "Highlighted Content"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:732
+#: ../framework/brad-shortcodes/tinymce/config.php:744
+msgid "Tooltip Text"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:751
+msgid "Tooltip Content"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:768
+msgid "Icons size"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:769
+msgid "Select the icon size"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:771
+#: ../framework/brad-shortcodes/tinymce/config.php:1043
+msgid "Normal"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:773
+msgid "Above Medium"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:774
+#: ../framework/brad-shortcodes/tinymce/config.php:1097
+msgid "Large"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:782
+msgid "Icons Border Radius"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:792
+msgid "Icons align"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:794
+msgid "left"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:795
+#: ../framework/brad-shortcodes/tinymce/config.php:1141
+msgid "Center"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:804
+msgid "Social Icons style"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:805
+msgid "Select the icon style"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:808
+msgid "With Background color"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:815
+#: ../framework/brad-shortcodes/tinymce/config.php:1053
+msgid "Icon Color"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:816
+#: ../framework/brad-shortcodes/tinymce/config.php:824
+#: ../framework/brad-shortcodes/tinymce/config.php:831
+#: ../framework/brad-shortcodes/tinymce/config.php:839
+msgid "Leave Blank for default"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:830
+msgid "Icon Color:hover"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:838
+msgid "Icon Background Color:hover"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:852
+msgid "Icon Link"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:860
+msgid "Icon title "
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:867
+msgid "Social Icon"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:873
+msgid "Link Target"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:874
+msgid "Select where the Link should open."
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:883
+msgid "Add Another Icon"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:896
+msgid "Read More Button"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:896
+#: ../framework/brad-shortcodes/tinymce/config.php:1032
+msgid "With Border"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:896
+msgid "Border With Primary color"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:896
+msgid "With Transparent Border"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:896
+#: ../framework/brad-shortcodes/tinymce/config.php:1106
+msgid "Custom"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:898
+msgid "Select the default style for your button."
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:905
+msgid "Select the Button size. Not for readmore button"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:911
+msgid "color"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:914
+#: ../framework/metabox.php:66
+msgid "Grey Button"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:914
+#: ../framework/metabox.php:66
+msgid "Green Button"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:914
+#: ../framework/metabox.php:66
+msgid "Sea Green Button"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:914
+#: ../framework/metabox.php:66
+msgid "Orange Button"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:914
+#: ../framework/metabox.php:66
+msgid "Red Button"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:914
+#: ../framework/metabox.php:66
+msgid "White Button"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:914
+#: ../framework/metabox.php:66
+msgid "Black Button"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:914
+#: ../framework/metabox.php:66
+msgid "Purple Button"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:914
+#: ../framework/metabox.php:66
+msgid "Yellow Button"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:920
+msgid "Button color"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:927
+msgid "Button color:hover"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:934
+msgid "Accent color"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:941
+msgid "Accent color:hover"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:949
+msgid "Border Width (in px)"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:956
+msgid "Button Border color"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:963
+msgid "Button Border color:hover"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:970
+msgid "Button Border Radius"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:973
+#: ../framework/brad-shortcodes/tinymce/config.php:1099
+msgid "Small"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:973
+#: ../framework/brad-shortcodes/tinymce/config.php:1141
+#: ../framework/custom-posts.php:112 ../framework/custom-posts.php:128
+#: ../framework/custom-posts.php:154 ../framework/custom-posts.php:167
+#: ../framework/custom-posts.php:174 ../framework/custom-posts.php:181
+#: ../framework/custom-posts.php:188
+msgid "None"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:980
+msgid "Justify"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:989
+#: ../framework/brad-shortcodes/tinymce/config.php:990
+#: ../vc_templates/vc_button.php:30 ../vc_templates/vc_cta_button.php:11
+msgid "Text on the button"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:991
+msgid "Text on the button."
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:996
+msgid "URL (Link)"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:998
+msgid "Enter the Button link. Do't forget to include http:// "
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1002
+msgid "Target"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1005
+#: ../framework/metabox.php:731
+msgid "Same window"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1005
+#: ../framework/metabox.php:731
+msgid "New window"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1012
+msgid ""
+"Select the icon for your Button. Click an icon to select it and again click "
+"the same icon to deselecct it"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1017
+msgid "Icon Align"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1029
+msgid "Icon Style"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1033
+msgid "With Dark Background"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1035
+#: ../framework/brad-shortcodes/tinymce/config.php:1046
+msgid "Only Work for read more button"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1054
+msgid "Leave Blank for default color ( Work only for readmore button)"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1059
+msgid "Icon Border Color"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1060
+msgid "Leave Blank for default border color ( Only work for readmore button )"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1066
+msgid ""
+"Leave Blank for default background color ( Only work for readmore button )"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1071
+msgid "Icon Background Color : hover"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1072
+msgid ""
+"Leave Blank for default background color on hover ( Only work for readmore "
+"button )"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1087
+msgid "Image"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1089
+msgid "Select image from media library."
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1094
+msgid "Image size"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1100
+msgid "Masonry Large"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1101
+msgid "Masonry Medium"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1102
+msgid "Masonry Small"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1103
+#: ../framework/custom-posts.php:78 ../framework/custom-posts.php:387
+msgid "Thumbnail"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1104
+msgid "Fullwidth"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1105
+msgid "Mini"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1113
+msgid "Custom Image size"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1114
+msgid ""
+"Enter image size in pixels: 200x100 (Width x Height). Leave empty to use "
+"default size. This will not work unless you select the image size to custom"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1122
+msgid "CSS Animation"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1124 ../search.php:35
+msgid "No"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1124
+msgid "Left to Right"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1124
+msgid "Right to Left"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1124
+msgid "Bottom to top"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1124
+msgid "Top to Bottom"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1124
+msgid "Left to Right Big"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1124
+msgid "Right to Big big"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1124
+msgid "Bottom to Top Big"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1124
+msgid "Top to Bottom Big"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1124
+msgid "Appear from center"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1124
+msgid "Fade In"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1125
+msgid ""
+"Select animation type if you want this element to be animated when it enters "
+"into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1130
+msgid "CSS Animation Delay"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1131
+msgid "No Delay"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1138
+msgid "Image Align"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1147
+msgid "Enable Lightbox Link Icon?"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1148
+msgid "If selected there will be  lightbox icon."
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1154
+msgid "Lightbox Icon?"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1161
+msgid "Lightbox Link to large image?"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1162
+msgid ""
+"If selected, image will be linked to the bigger image through lightbox. "
+"<b>Note:</b>You must have Enalbed the light box icon above."
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1170
+msgid "Custom Image link for Lightbox"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/config.php:1171
+msgid ""
+"Enter url if you want this image to have link. You can also enter youtube or "
+"vimeo video link . Video will be shown in lightbox.<b>Note:</b>You must have "
+"Enalbed the light box icon above."
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/js/header.php:126
+#: ../framework/brad-shortcodes/tinymce/js/header.php:128
+#: ../framework/brad-shortcodes/tinymce/js/header.php:130
+#: ../framework/brad-shortcodes/tinymce/js/header.php:132 ../header.php:286
+#: ../header.php:288 ../header.php:290
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/js/header.php:134 ../header.php:294
+msgid "Nothing Found"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/js/header.php:136 ../header.php:296
+msgid "Search Results"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/js/header.php:138
+#: ../framework/brad_functions.php:388
+msgid "Error 404"
+msgstr ""
+
+#: ../framework/brad-shortcodes/tinymce/js/header.php:140 ../header.php:298
+msgid "Archives"
+msgstr ""
+
+#: ../framework/brad_functions.php:237
+msgid "Prev"
+msgstr ""
+
+#: ../framework/brad_functions.php:249
+msgid "Next"
+msgstr ""
+
+#: ../framework/brad_functions.php:282
+msgid "Home"
+msgstr ""
+
+#: ../framework/brad_functions.php:283
+msgid "Latest News"
+msgstr ""
+
+#: ../framework/brad_functions.php:291 ../framework/brad_functions.php:294
+#: ../framework/brad_functions.php:408
+msgid "You Are Here:"
+msgstr ""
+
+#: ../framework/brad_functions.php:300
+msgid "Archive by category"
+msgstr ""
+
+#: ../framework/brad_functions.php:305
+msgid "Search results for"
+msgstr ""
+
+#: ../framework/brad_functions.php:377
+msgid "Posts tagged"
+msgstr ""
+
+#: ../framework/brad_functions.php:383
+msgid "Articles posted by"
+msgstr ""
+
+#: ../framework/brad_functions.php:394
+msgid "Page"
+msgstr ""
+
+#: ../framework/brad_functions.php:433
+msgid "Name: "
+msgstr ""
+
+#: ../framework/brad_functions.php:434
+msgid "Email: "
+msgstr ""
+
+#: ../framework/brad_functions.php:435
+msgid "Telephone: "
+msgstr ""
+
+#: ../framework/brad_functions.php:436
+msgid "Country: "
+msgstr ""
+
+#: ../framework/brad_functions.php:437
+msgid "City: "
+msgstr ""
+
+#: ../framework/brad_functions.php:438
+msgid "Company: "
+msgstr ""
+
+#: ../framework/brad_functions.php:439
+msgid "Message: "
+msgstr ""
+
+#: ../framework/brad_functions.php:440
+msgid "Website: "
+msgstr ""
+
+#: ../framework/brad_functions.php:539
+msgid "Please provide your Twitter username"
+msgstr ""
+
+#: ../framework/brad_functions.php:610 ../woocommerce/order/tracking.php:17
+msgid "ago"
+msgstr ""
+
+#: ../framework/brad_functions.php:850
+#: ../framework/meta-box/inc/fields/file-advanced.php:103
+#: ../framework/meta-box/inc/fields/file.php:139
+#: ../framework/meta-box/inc/fields/image-advanced.php:108
+#: ../framework/meta-box/inc/fields/image.php:138
+#: ../woocommerce/myaccount/my-address.php:42
+msgid "Edit"
+msgstr ""
+
+#: ../framework/brad_functions.php:851
+msgid "Reply"
+msgstr ""
+
+#: ../framework/brad_functions.php:853
+msgid "Says :"
+msgstr ""
+
+#: ../framework/brad_functions.php:854
+msgid "Posted on"
+msgstr ""
+
+#: ../framework/brad_functions.php:854
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../framework/brad_functions.php:857
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../framework/brad_functions.php:907
+msgid "No location found for the entered address."
+msgstr ""
+
+#: ../framework/brad_functions.php:909
+msgid "Invalid request. Did you enter an address?"
+msgstr ""
+
+#: ../framework/brad_functions.php:911
+msgid ""
+"Something went wrong while retrieving your map, please ensure you have "
+"entered the short code correctly."
+msgstr ""
+
+#: ../framework/brad_functions.php:915
+msgid "Unable to contact Google API service."
+msgstr ""
+
+#: ../framework/brad_woocommerce.php:32
+msgid "Select options"
+msgstr ""
+
+#: ../framework/brad_woocommerce.php:35
+#: ../framework/plugin-activation.php:1951
+#: ../framework/plugin-activation.php:1960
+msgid "Show Details"
+msgstr ""
+
+#: ../framework/custom-posts.php:14
+msgid "portfolio-category"
+msgstr ""
+
+#: ../framework/custom-posts.php:17
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../framework/custom-posts.php:18
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../framework/custom-posts.php:35
+msgid "Portfolio Item"
+msgstr ""
+
+#: ../framework/custom-posts.php:39
+msgid "Portfolio"
+msgstr ""
+
+#: ../framework/custom-posts.php:41 ../framework/custom-posts.php:222
+#: ../framework/custom-posts.php:290 ../framework/custom-posts.php:354
+msgid "Add New"
+msgstr ""
+
+#: ../framework/custom-posts.php:42
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: ../framework/custom-posts.php:43
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: ../framework/custom-posts.php:44
+msgid "New Portfolio Item"
+msgstr ""
+
+#: ../framework/custom-posts.php:45
+msgid "View Portfolio Item"
+msgstr ""
+
+#: ../framework/custom-posts.php:46
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../framework/custom-posts.php:47
+msgid "No portfolio items have been added yet"
+msgstr ""
+
+#: ../framework/custom-posts.php:48 ../framework/custom-posts.php:229
+#: ../framework/custom-posts.php:297 ../framework/custom-posts.php:362
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: ../framework/custom-posts.php:79
+msgid "Category"
+msgstr ""
+
+#: ../framework/custom-posts.php:80
+msgid "Author"
+msgstr ""
+
+#: ../framework/custom-posts.php:81
+msgid "Comments"
+msgstr ""
+
+#: ../framework/custom-posts.php:82 ../woocommerce/myaccount/my-orders.php:34
+msgid "Date"
+msgstr ""
+
+#: ../framework/custom-posts.php:206
+msgid "Testimonial Categories"
+msgstr ""
+
+#: ../framework/custom-posts.php:207
+msgid "Testimonial Category"
+msgstr ""
+
+#: ../framework/custom-posts.php:220
+msgid "Testimonials"
+msgstr ""
+
+#: ../framework/custom-posts.php:221 ../framework/custom-posts.php:253
+msgid "Testimonial"
+msgstr ""
+
+#: ../framework/custom-posts.php:223
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../framework/custom-posts.php:224
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../framework/custom-posts.php:225
+msgid "New Testimonial"
+msgstr ""
+
+#: ../framework/custom-posts.php:226
+msgid "View Testimonial"
+msgstr ""
+
+#: ../framework/custom-posts.php:227
+msgid "Search Testimonials"
+msgstr ""
+
+#: ../framework/custom-posts.php:228
+msgid "No testimonials have been added yet"
+msgstr ""
+
+#: ../framework/custom-posts.php:254 ../framework/custom-posts.php:323
+msgid "Categories"
+msgstr ""
+
+#: ../framework/custom-posts.php:273
+msgid "Client Categories"
+msgstr ""
+
+#: ../framework/custom-posts.php:274
+msgid "Client Category"
+msgstr ""
+
+#: ../framework/custom-posts.php:288
+msgid "Clients"
+msgstr ""
+
+#: ../framework/custom-posts.php:289 ../framework/custom-posts.php:322
+msgid "Client"
+msgstr ""
+
+#: ../framework/custom-posts.php:291
+msgid "Add New Client"
+msgstr ""
+
+#: ../framework/custom-posts.php:292
+msgid "Edit Client"
+msgstr ""
+
+#: ../framework/custom-posts.php:293
+msgid "New Client"
+msgstr ""
+
+#: ../framework/custom-posts.php:294
+msgid "View Client"
+msgstr ""
+
+#: ../framework/custom-posts.php:295
+msgid "Search Clients"
+msgstr ""
+
+#: ../framework/custom-posts.php:296
+msgid "No clients have been added yet"
+msgstr ""
+
+#: ../framework/custom-posts.php:321 ../framework/metabox.php:837
+msgid "Client Logo"
+msgstr ""
+
+#: ../framework/custom-posts.php:338
+msgid "Slider Locations"
+msgstr ""
+
+#: ../framework/custom-posts.php:339
+msgid "Slider Location"
+msgstr ""
+
+#: ../framework/custom-posts.php:352
+msgid "Brad Slider"
+msgstr ""
+
+#: ../framework/custom-posts.php:355
+msgid "Add New Slide"
+msgstr ""
+
+#: ../framework/custom-posts.php:356
+msgid "Slides"
+msgstr ""
+
+#: ../framework/custom-posts.php:357
+msgid "Edit Slide"
+msgstr ""
+
+#: ../framework/custom-posts.php:358
+msgid "New Slide"
+msgstr ""
+
+#: ../framework/custom-posts.php:359
+msgid "View Slide"
+msgstr ""
+
+#: ../framework/custom-posts.php:360
+msgid "Search Slides"
+msgstr ""
+
+#: ../framework/custom-posts.php:361
+msgid "No Slides have been added yet"
+msgstr ""
+
+#: ../framework/custom-posts.php:386
+msgid "Slider Caption"
+msgstr ""
+
+#: ../framework/custom-posts.php:388
+msgid "Slider locations"
+msgstr ""
+
+#: ../framework/headers/header-type2.php:39
+#: ../framework/headers/header-type2.php:101
+#: ../framework/headers/header-type3.php:49 ../framework/headers/header.php:63
+msgid "Hit Enter to Search"
+msgstr ""
+
+#: ../framework/headers/social-icons.php:8
+msgid "Dribbble"
+msgstr ""
+
+#: ../framework/headers/social-icons.php:11
+msgid "Flickr"
+msgstr ""
+
+#: ../framework/headers/social-icons.php:17
+msgid "Skype"
+msgstr ""
+
+#: ../framework/headers/social-icons.php:21
+msgid "Google"
+msgstr ""
+
+#: ../framework/headers/social-icons.php:24
+msgid "LinkedIn"
+msgstr ""
+
+#: ../framework/headers/social-icons.php:27
+msgid "Vimeo"
+msgstr ""
+
+#: ../framework/headers/social-icons.php:31
+msgid "Tumblr"
+msgstr ""
+
+#: ../framework/headers/social-icons.php:34
+msgid "YouTube"
+msgstr ""
+
+#: ../framework/headers/social-icons.php:37
+msgid "Instgram"
+msgstr ""
+
+#: ../framework/headers/social-icons.php:41
+msgid "Behance"
+msgstr ""
+
+#: ../framework/headers/social-icons.php:47
+msgid "PayPal"
+msgstr ""
+
+#: ../framework/headers/social-icons.php:50
+msgid "Delicious"
+msgstr ""
+
+#: ../framework/headers/social-icons.php:53
+msgid "RSS"
+msgstr ""
+
+#: ../framework/headers/topmenu.php:6
+msgid "Please assign a menu to the Top Menu in Appearance > Menus"
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/button.php:36
+msgid "Click me"
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/file-advanced.php:23
+#: ../framework/meta-box/inc/fields/plupload-image.php:105
+msgid "Select Files"
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/file-advanced.php:66
+msgid "Select or Upload Files"
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/file-advanced.php:102
+#: ../framework/meta-box/inc/fields/file.php:138
+#: ../framework/meta-box/inc/fields/image-advanced.php:107
+#: ../framework/meta-box/inc/fields/image.php:137
+msgid "Delete"
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/file.php:84
+msgid "Upload Files"
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/file.php:85
+msgid "+ Add new file"
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/image-advanced.php:71
+msgid "Select or Upload Images"
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/image.php:71
+#: ../framework/meta-box/inc/fields/thickbox-image.php:35
+msgid "Upload Images"
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/image.php:72
+msgid "+ Add new image"
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/map.php:49
+msgid "Find Address"
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/oembed.php:54
+msgid "Embed HTML not available."
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/oembed.php:77
+msgid "Preview"
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/plupload-image.php:103
+msgid "Drop images here"
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/plupload-image.php:104
+msgid "or"
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/plupload-image.php:180
+msgid "Allowed Image Files"
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/post.php:54
+msgid "Post"
+msgstr ""
+
+#: ../framework/meta-box/inc/fields/post.php:68
+#: ../framework/meta-box/inc/fields/taxonomy.php:40
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: ../framework/meta-box/inc/meta-box.php:247
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: ../framework/meta-box/inc/meta-box.php:421
+msgid "+"
+msgstr ""
+
+#: ../framework/meta-box/inc/meta-box.php:443
+msgid "&#8211;"
+msgstr ""
+
+#: ../framework/metabox.php:66
+msgid "Readmore Button"
+msgstr ""
+
+#: ../framework/metabox.php:66
+msgid "Blue Button"
+msgstr ""
+
+#: ../framework/metabox.php:66
+msgid "Alternate Button"
+msgstr ""
+
+#: ../framework/metabox.php:66
+msgid "Alternate Transparent Button"
+msgstr ""
+
+#: ../framework/metabox.php:72
+msgid "Gallery Settings"
+msgstr ""
+
+#: ../framework/metabox.php:92
+msgid "Video Settings"
+msgstr ""
+
+#: ../framework/metabox.php:107
+msgid "Feature Video Poster"
+msgstr ""
+
+#: ../framework/metabox.php:117
+msgid "Audio Settings"
+msgstr ""
+
+#: ../framework/metabox.php:136
+msgid "Quote/Link Settings"
+msgstr ""
+
+#: ../framework/metabox.php:187
+msgid "Select the default background type"
+msgstr ""
+
+#: ../framework/metabox.php:322
+msgid "Video Aspect Ratio"
+msgstr ""
+
+#: ../framework/metabox.php:397
+msgid "Slider Content Width in px or percentage only for ex 500px or 50%."
+msgstr ""
+
+#: ../framework/metabox.php:823
+msgid "Client Meta"
+msgstr ""
+
+#: ../framework/metabox.php:829
+msgid "Client Link"
+msgstr ""
+
+#: ../framework/metabox.php:831
+msgid "Enter the link for the client if you want the image to be clickable."
+msgstr ""
+
+#: ../framework/metabox.php:838 ../framework/metabox.php:845
+msgid "Enter the image for the Client (required)."
+msgstr ""
+
+#: ../framework/metabox.php:844
+msgid "Client Logo on hover"
+msgstr ""
+
+#: ../framework/metabox.php:857
+msgid "Testimonial Info"
+msgstr ""
+
+#: ../framework/metabox.php:862
+msgid "Testimonial Name"
+msgstr ""
+
+#: ../framework/metabox.php:864
+msgid "Enter the cite name for the testimonial."
+msgstr ""
+
+#: ../framework/metabox.php:871
+msgid "Role"
+msgstr ""
+
+#: ../framework/metabox.php:873
+msgid "Enter the role of testimonial for ex. Ceo  , President"
+msgstr ""
+
+#: ../framework/metabox.php:880
+msgid "Testimonial Company"
+msgstr ""
+
+#: ../framework/metabox.php:882
+msgid "Enter the testimonial company (optional)."
+msgstr ""
+
+#: ../framework/metabox.php:889
+msgid "Company Link"
+msgstr ""
+
+#: ../framework/metabox.php:891
+msgid "Enter the Company url or leve blank if do't want to have a link"
+msgstr ""
+
+#: ../framework/metabox.php:899
+msgid "Testimonial  Image"
+msgstr ""
+
+#: ../framework/metabox.php:900
+msgid "Enter the image for the testimonial (optional)."
+msgstr ""
+
+#: ../framework/plugin-activation.php:155 ../functions.php:324
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../framework/plugin-activation.php:156 ../functions.php:325
+msgid "Install Plugins"
+msgstr ""
+
+#: ../framework/plugin-activation.php:157 ../functions.php:326
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../framework/plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: ../framework/plugin-activation.php:169 ../functions.php:338
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../framework/plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../framework/plugin-activation.php:171
+#: ../framework/plugin-activation.php:1841 ../functions.php:339
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../framework/plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../framework/plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../framework/plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1086
+msgid "External Link"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1091
+msgid "Private Repository"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1094
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1098
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1101
+msgid "Required"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1101
+msgid "Recommended"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1104
+msgid "Not Installed"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1106
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1276
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1292
+msgid "Plugin"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1293
+msgid "Source"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1294
+msgid "Type"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1295
+#: ../woocommerce/myaccount/my-orders.php:37
+msgid "Status"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1313
+msgid "Install"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1314
+msgid "Activate"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1824
+msgid "Install package not available."
+msgstr ""
+
+#: ../framework/plugin-activation.php:1825
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1826
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1827
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1828
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../framework/plugin-activation.php:1829
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../framework/plugin-activation.php:1840
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../framework/plugin-activation.php:1950
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../framework/plugin-activation.php:1951
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../framework/plugin-activation.php:1951
+#: ../framework/plugin-activation.php:1960
+msgid "Hide Details"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1952
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../framework/plugin-activation.php:1953
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/plugin-activation.php:1957
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../framework/plugin-activation.php:1958
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../framework/plugin-activation.php:1959
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../framework/plugin-activation.php:1960
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../framework/plugin-activation.php:1961
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../framework/plugin-activation.php:1962
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/plugin-activation.php:2053
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../framework/scripts.php:83
+msgid "No more Posts to Load"
+msgstr ""
+
+#: ../framework/scripts.php:84
+msgid "No more Projects to Load"
+msgstr ""
+
+#: ../framework/templates/blog/posts/post-format-grid/post-link.php:27
+#: ../framework/templates/blog/posts/post-format-grid/post-quote.php:27
+#: ../framework/templates/blog/posts/post-format-grid/post.php:52
+#: ../framework/templates/blog/posts/post-format/post-link.php:24
+#: ../framework/templates/blog/posts/post-format/post-quote.php:24
+#: ../framework/templates/blog/posts/post-format/post.php:15
+#: ../framework/templates/blog/posts/post-format/post.php:78
+#: ../framework/templates/singlepost/post-format/post-link.php:24
+#: ../framework/templates/singlepost/post-format/post-quote.php:24
+#: ../framework/templates/singlepost/post-format/post.php:15
+#: ../framework/templates/singlepost/post-format/post.php:78
+msgid "Sticky Post"
+msgstr ""
+
+#: ../framework/templates/blog/posts/post-format-grid/post-link.php:51
+#: ../framework/templates/blog/posts/post-format-grid/post-quote.php:51
+#: ../framework/templates/blog/posts/post-format-grid/post.php:76
+#: ../framework/templates/blog/posts/post-format/post-link.php:53
+#: ../framework/templates/blog/posts/post-format/post-quote.php:53
+#: ../framework/templates/blog/posts/post-format/post.php:118
+#: ../framework/templates/singlepost/post-format/post-link.php:53
+#: ../framework/templates/singlepost/post-format/post-quote.php:53
+#: ../framework/templates/singlepost/post-format/post.php:114
+#: ../vc_templates/vc_blog_list.php:42
+msgid "No Comment"
+msgstr ""
+
+#: ../framework/templates/blog/posts/post-format-grid/post-link.php:51
+#: ../framework/templates/blog/posts/post-format-grid/post-quote.php:51
+#: ../framework/templates/blog/posts/post-format-grid/post.php:76
+#: ../framework/templates/blog/posts/post-format/post-link.php:53
+#: ../framework/templates/blog/posts/post-format/post-quote.php:53
+#: ../framework/templates/blog/posts/post-format/post.php:118
+#: ../framework/templates/singlepost/post-format/post-link.php:53
+#: ../framework/templates/singlepost/post-format/post-quote.php:53
+#: ../framework/templates/singlepost/post-format/post.php:114
+#: ../vc_templates/vc_blog_list.php:46
+msgid "1 Comment"
+msgstr ""
+
+#: ../framework/templates/blog/posts/posts-grid.php:7
+msgid ""
+"Sorry You cannot create more than 1 infinite scroll or Load More Posts "
+"( Portfolios ) per page . Please change this in page builder or blog "
+"settings "
+msgstr ""
+
+#: ../framework/templates/blog/posts/posts-grid.php:37
+msgid "Load More Posts.."
+msgstr ""
+
+#: ../framework/templates/blog/posts/posts-grid.php:37
+#: ../vc_templates/vc_portfolio.php:50
+msgid "Load More"
+msgstr ""
+
+#: ../framework/templates/single-portfolio/portfolio-half.php:52
+#: ../framework/templates/single-portfolio/portfolio.php:50
+msgid "About the Project"
+msgstr ""
+
+#: ../framework/templates/single-portfolio/portfolio-half.php:58
+#: ../framework/templates/single-portfolio/portfolio.php:60
+msgid "Project Info"
+msgstr ""
+
+#: ../framework/templates/single-portfolio/portfolio-half.php:62
+#: ../framework/templates/single-portfolio/portfolio.php:64
+msgid "Client :"
+msgstr ""
+
+#: ../framework/templates/single-portfolio/portfolio-half.php:68
+#: ../framework/templates/single-portfolio/portfolio.php:70
+msgid "Categories :"
+msgstr ""
+
+#: ../framework/templates/single-portfolio/portfolio-half.php:74
+#: ../framework/templates/single-portfolio/portfolio.php:76
+msgid "Project Url :"
+msgstr ""
+
+#: ../framework/templates/single-portfolio/portfolio-half.php:83
+#: ../framework/templates/single-portfolio/portfolio.php:85
+msgid "Share : "
+msgstr ""
+
+#: ../framework/templates/singlepost/content-sidebar.php:28
+#: ../framework/templates/singlepost/content.php:18
+msgid "Related Posts"
+msgstr ""
+
+#: ../framework/templates/singlepost/content-sidebar.php:46
+#: ../framework/templates/singlepost/content.php:35
+msgid "About the Author"
+msgstr ""
+
+#: ../framework/templates/singlepost/content-sidebar.php:51
+#: ../framework/templates/singlepost/content.php:39
+msgid "The Author has not yet added any info about himself"
+msgstr ""
+
+#: ../framework/templates/singlepost/content-sidebar.php:72
+#: ../framework/templates/singlepost/content.php:54 ../single-portfolio.php:55
+msgid "Previous Post"
+msgstr ""
+
+#: ../framework/templates/singlepost/content-sidebar.php:75
+#: ../framework/templates/singlepost/content.php:57 ../single-portfolio.php:58
+msgid "Next Post"
+msgstr ""
+
+#: ../framework/templates/singlepost/post-format/post.php:104
+msgid "Tags: "
+msgstr ""
+
+#: ../framework/theme-update/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: ../framework/theme-update/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: ../framework/theme-update/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: ../framework/theme-update/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: ../framework/widgets/embed_video.php:11
+msgid "Display Embed Video"
+msgstr ""
+
+#: ../framework/widgets/embed_video.php:13
+msgid "Brad.Embed_Video"
+msgstr ""
+
+#: ../framework/widgets/flickr_widget.php:9
+msgid "Display your latest Flickr Photos"
+msgstr ""
+
+#: ../framework/widgets/flickr_widget.php:11
+msgid "brad.Flickr"
+msgstr ""
+
+#: ../framework/widgets/flickr_widget.php:56
+msgid "Flickr idGettr"
+msgstr ""
+
+#: ../framework/widgets/recent_posts.php:51
+msgid " at "
+msgstr ""
+
+#: ../framework/widgets/twitter_widget.php:9
+msgid "Display your latest Tweets"
+msgstr ""
+
+#: ../framework/widgets/twitter_widget.php:11
+msgid "Brad.Twitter Widget"
+msgstr ""
+
+#: ../functions.php:327
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:340
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions.php:473
+msgid "These are widgets for the Footer Area 1."
+msgstr ""
+
+#: ../functions.php:483
+msgid "These are widgets for the Footer Area."
+msgstr ""
+
+#: ../header.php:292
+#, php-format
+msgid "%s \"%s\""
+msgstr ""
+
+#: ../header.php:292
+msgid "Browsing Category"
+msgstr ""
+
+#: ../search.php:21
+msgid "New Search"
+msgstr ""
+
+#: ../search.php:22
+msgid "To Refine Your Search Change your search text Below"
+msgstr ""
+
+#: ../search.php:40
+#, php-format
+msgid "%1$s result found for: <span>%2$s</span></h1>"
+msgstr ""
+
+#: ../search.php:42
+#, php-format
+msgid "%1$s results found for: <span>%2$s</span>"
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Search..."
+msgstr ""
+
+#: ../searchform.php:4
+msgid "Go"
+msgstr ""
+
+#: ../single-portfolio.php:18
+msgid "Related Projects"
+msgstr ""
+
+#: ../vc_templates/vc_accordion_tab.php:5
+msgid "Section"
+msgstr ""
+
+#: ../vc_templates/vc_blog_list.php:44
+msgid " Comments"
+msgstr ""
+
+#: ../vc_templates/vc_contact_form.php:18
+msgid "Success! Your Message Has been Sent"
+msgstr ""
+
+#: ../vc_templates/vc_contact_form.php:19
+msgid "Error! An Error Occured While Sending your Message"
+msgstr ""
+
+#: ../vc_templates/vc_contact_form.php:36
+msgid "Your Name"
+msgstr ""
+
+#: ../vc_templates/vc_contact_form.php:37
+msgid "Your Country"
+msgstr ""
+
+#: ../vc_templates/vc_contact_form.php:38
+msgid "Your City"
+msgstr ""
+
+#: ../vc_templates/vc_contact_form.php:39
+msgid "Your Company"
+msgstr ""
+
+#: ../vc_templates/vc_contact_form.php:40
+msgid "Your Message"
+msgstr ""
+
+#: ../vc_templates/vc_contact_form.php:41
+msgid "Your Website"
+msgstr ""
+
+#: ../vc_templates/vc_contact_form.php:42
+msgid "Your Phone Number"
+msgstr ""
+
+#: ../vc_templates/vc_contact_form.php:43
+msgid "Your Email"
+msgstr ""
+
+#: ../vc_templates/vc_portfolio.php:91
+msgid ""
+"Sorry You cannot create more than 1 infinite scroll or Load More Posts "
+"( Portfolios ) per page . Please change this in page builder "
+msgstr ""
+
+#: ../vc_templates/vc_portfolio.php:113
+msgid "Sort Portfolios :"
+msgstr ""
+
+#: ../vc_templates/vc_posts_carousel.php:137
+msgid "0 Commment"
+msgstr ""
+
+#: ../vc_templates/vc_posts_carousel.php:140
+msgid "1 Commment"
+msgstr ""
+
+#: ../vc_templates/vc_posts_carousel.php:142
+#, php-format
+msgid "%s Commments"
+msgstr ""
+
+#: ../vc_templates/vc_quote.php:22 ../vc_templates/vc_single_image.php:25
+#: ../vc_templates/vc_testimonials.php:92
+msgid "This is image placeholder, edit your page to replace it."
+msgstr ""
+
+#: ../vc_templates/vc_tab.php:9
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: ../vc_templates/vc_testimonials.php:122
+msgid "of"
+msgstr ""
+
+#: ../vc_templates/vc_toggle.php:7
+msgid "Click to toggle"
+msgstr ""
+
+#: ../woocommerce/cart/cart-empty.php:17
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: ../woocommerce/cart/cart-empty.php:21
+msgid "Return To Shop"
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:17
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:19
+msgid "Shipping and Handling"
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:47
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:51
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:55
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:62
+#: ../woocommerce/cart/cart-shipping.php:68
+#, php-format
+msgid "Sorry, shipping is unavailable %s."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:62
+#: ../woocommerce/cart/cart-shipping.php:68
+msgid ""
+"If you require assistance or wish to make alternate arrangements please "
+"contact us."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:81
+msgid "Shipping"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:16
+msgid "Cart Totals"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:20
+#: ../woocommerce/checkout/review-order.php:24
+msgid "Cart Subtotal"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:63
+#: ../woocommerce/checkout/review-order.php:67
+msgid "Order Total"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:73
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:76
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:25 ../woocommerce/checkout/form-pay.php:20
+#: ../woocommerce/checkout/review-order.php:18
+#: ../woocommerce/order/order-details.php:23
+msgid "Product"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:26
+msgid "Price"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:27
+msgid "Quantity"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:28 ../woocommerce/checkout/review-order.php:19
+#: ../woocommerce/myaccount/my-orders.php:40
+#: ../woocommerce/order/order-details.php:24
+msgid "Total"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:42
+msgid "Remove this item"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:63
+msgid "Available on backorder"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:95
+msgid "Coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:97 ../woocommerce/checkout/form-coupon.php:24
+msgid "Coupon code"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:98 ../woocommerce/checkout/form-coupon.php:27
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:102
+msgid "Update Cart"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:103
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: ../woocommerce/cart/cross-sells.php:38
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:39
+msgid "No products in the cart."
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:47
+msgid "Subtotal"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:51
+msgid "View Cart"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:53
+msgid "Checkout"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:21
+msgid "Calculate Shipping"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:27
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:47
+#: ../woocommerce/cart/shipping-calculator.php:58
+#: ../woocommerce/cart/shipping-calculator.php:77
+msgid "State / county"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:60
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:87
+msgid "City"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:94
+msgid "Postcode / Zip"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:100
+msgid "Update Totals"
+msgstr ""
+
+#: ../woocommerce/checkout/cart-errors.php:16
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: ../woocommerce/checkout/cart-errors.php:20
+msgid "Return To Cart"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:15
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:19
+#: ../woocommerce/myaccount/form-edit-address.php:14
+#: ../woocommerce/myaccount/my-address.php:19
+#: ../woocommerce/myaccount/my-address.php:25
+#: ../woocommerce/order/order-details.php:113
+msgid "Billing Address"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:34
+msgid "Create an account?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:42
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:23
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:51
+msgid "Your order"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:17
+msgid "Have a coupon?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:18
+msgid "Click here to enter your code"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:17
+msgid "Returning customer?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:18
+msgid "Click here to login"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:25
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:21
+msgid "Qty"
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:22
+msgid "Totals"
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:55
+msgid "Payment"
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:80
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:90
+msgid "Pay for order"
+msgstr ""
+
+#: ../woocommerce/checkout/form-shipping.php:30
+msgid "Ship to a different address?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-shipping.php:46
+#: ../woocommerce/single-product/tabs/additional-information.php:14
+msgid "Additional Information"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:18
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:23
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:25
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:29
+#: ../woocommerce/myaccount/my-orders.php:67
+msgid "Pay"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:33
+msgid "My Account"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:39
+#: ../woocommerce/checkout/thankyou.php:68
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:43
+msgid "Order:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:46
+msgid "Date:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:49
+msgid "Total:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:53
+msgid "Payment method:"
+msgstr ""
+
+#: ../woocommerce/global/form-login.php:21
+#: ../woocommerce/myaccount/form-lost-password.php:22
+msgid "Username or email"
+msgstr ""
+
+#: ../woocommerce/global/form-login.php:35
+#: ../woocommerce/myaccount/form-login.php:21
+#: ../woocommerce/myaccount/form-login.php:40
+msgid "Login"
+msgstr ""
+
+#: ../woocommerce/global/form-login.php:39
+#: ../woocommerce/myaccount/form-login.php:43
+msgid "Remember me"
+msgstr ""
+
+#: ../woocommerce/global/form-login.php:43
+#: ../woocommerce/myaccount/form-login.php:47
+msgid "Lost your password?"
+msgstr ""
+
+#: ../woocommerce/loop/no-products-found.php:16
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:22
+msgid "Default sorting"
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:23
+msgid "Sort by popularity"
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:24
+msgid "Sort by average rating"
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:25
+msgid "Sort by newness"
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:26
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:27
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: ../woocommerce/loop/sale-flash.php:15
+#: ../woocommerce/single-product/sale-flash.php:15
+msgid "Sale!"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-add-payment-method.php:41
+msgid ""
+"Sorry, it seems that there are no payment methods which support adding a new "
+"payment method. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-add-payment-method.php:48
+msgid "Add Payment Method"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-change-password.php:19
+#: ../woocommerce/myaccount/form-lost-password.php:30
+msgid "New password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-change-password.php:25
+#: ../woocommerce/myaccount/form-lost-password.php:36
+msgid "Re-enter new password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-change-password.php:31
+#: ../woocommerce/myaccount/form-lost-password.php:45
+msgid "Save"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:19
+msgid "First name"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:25
+msgid "Last name"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:37
+msgid "Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:43
+msgid "Confirm new password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:49
+msgid "Save changes"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-address.php:14
+#: ../woocommerce/myaccount/my-address.php:20
+#: ../woocommerce/order/order-details.php:128
+msgid "Shipping Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-address.php:30
+msgid "Save Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:27
+msgid "Username or email address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:58
+#: ../woocommerce/myaccount/form-login.php:94
+msgid "Register"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:86
+msgid "Anti-spam"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:19
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:27
+msgid "Enter a new password below."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:45
+msgid "Reset Password"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:19
+#, php-format
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:24
+#, php-format
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and <a href=\"%s\">edit your password and "
+"account details</a>."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:33
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:61
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-downloads.php:18
+msgid "Available downloads"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:31
+msgid "Order"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:80
+msgid "View"
+msgstr ""
+
+#: ../woocommerce/myaccount/view-order.php:12
+#, php-format
+msgid ""
+"Order <mark class=\"order-number\">%s</mark> was placed on <mark class="
+"\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</"
+"mark>."
+msgstr ""
+
+#: ../woocommerce/myaccount/view-order.php:18
+#: ../woocommerce/order/tracking.php:31
+msgid "Order Updates"
+msgstr ""
+
+#: ../woocommerce/myaccount/view-order.php:25
+#: ../woocommerce/order/tracking.php:38
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:17
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"return. This was given to you on your receipt and in the confirmation email "
+"you should have received."
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:21
+msgid "Order ID"
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:23
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:27
+msgid "Billing Email"
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:29
+msgid "Email you used during checkout."
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:33
+msgid "Track"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:18
+msgid "Order Details"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:68
+#, php-format
+msgid "Download file%s"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:97
+msgid "Customer details"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:101
+msgid "Email:"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:102
+msgid "Telephone:"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:118
+#: ../woocommerce/order/order-details.php:134
+msgid "N/A"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:17
+#, php-format
+msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:19
+msgid "and was completed"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:19
+msgid " ago"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:25
+msgid "Reviews"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:43
+msgid "There are no reviews yet."
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:54
+msgid "Add a review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:54
+msgid "Be the first to review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:55
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:59
+msgid "Name"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:61
+msgid "Email"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:64
+msgid "Submit"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:70
+msgid "Your Rating"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:71
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:72
+msgid "Perfect"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:73
+msgid "Good"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:74
+msgid "Average"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:75
+msgid "Not that bad"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:76
+msgid "Very Poor"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:80
+msgid "Your Review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:88
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:24
+msgid "Choose an option"
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:73
+msgid "Clear selection"
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:95
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:22
+msgid "SKU:"
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:23
+msgid "n/a"
+msgstr ""
+
+#: ../woocommerce/single-product/product-attributes.php:27
+msgid "Weight"
+msgstr ""
+
+#: ../woocommerce/single-product/product-attributes.php:33
+msgid "Dimensions"
+msgstr ""
+
+#: ../woocommerce/single-product/rating.php:23
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/rating.php:24
+#: ../woocommerce/single-product/review.php:22
+msgid "out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/related.php:35
+msgid "Related Products"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:21
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:27
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:37
+msgid "verified owner"
+msgstr ""
+
+#: ../woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""
+
+#: ../woocommerce/single-product/up-sells.php:39
+msgid "You may also like&hellip;"
+msgstr ""

@@ -1,0 +1,2 @@
+[28-Sep-2015 05:03:07 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/gocredit/public_html/wp-content/plugins/pmpro-email-templates-addon/includes/init.php on line 56
+[30-Nov-2015 05:21:10 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/gocredit/public_html/wp-content/plugins/pmpro-email-templates-addon/includes/init.php on line 56

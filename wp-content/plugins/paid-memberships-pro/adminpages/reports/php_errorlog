@@ -1,0 +1,9 @@
+[28-Sep-2015 05:08:18 CST6CDT] PHP Fatal error:  Call to undefined function __() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/adminpages/reports/login.php on line 16
+[28-Sep-2015 05:11:40 CST6CDT] PHP Fatal error:  Call to undefined function pmpro_getOption() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/adminpages/reports/sales.php on line 16
+[28-Sep-2015 05:12:34 CST6CDT] PHP Fatal error:  Call to undefined function __() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/adminpages/reports/login.php on line 16
+[28-Sep-2015 05:14:49 CST6CDT] PHP Fatal error:  Call to undefined function __() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/adminpages/reports/memberships.php on line 18
+[04-Dec-2015 16:08:37 CST6CDT] PHP Fatal error:  Call to undefined function __() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/adminpages/reports/login.php on line 16
+[31-Jan-2016 16:50:14 CST6CDT] PHP Fatal error:  Call to undefined function pmpro_getOption() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/adminpages/reports/sales.php on line 16
+[06-Feb-2016 00:11:26 CST6CDT] PHP Fatal error:  Call to undefined function __() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/adminpages/reports/login.php on line 16
+[13-Feb-2016 07:25:15 CST6CDT] PHP Fatal error:  Call to undefined function __() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/adminpages/reports/memberships.php on line 18
+[05-May-2016 21:18:19 CST6CDT] PHP Fatal error:  Call to undefined function __() in /home/gocredit/public_html/wp-content/plugins/paid-memberships-pro/adminpages/reports/login.php on line 16

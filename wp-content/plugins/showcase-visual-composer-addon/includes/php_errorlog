@@ -1,0 +1,4 @@
+[14-May-2016 10:25:39 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/gocredit/public_html/wp-content/plugins/showcase-visual-composer-addon/includes/vc-showcase.php on line 3
+[14-May-2016 10:25:47 CST6CDT] PHP Fatal error:  Call to undefined function add_filter() in /home/gocredit/public_html/wp-content/plugins/showcase-visual-composer-addon/includes/add-colums-showcase.php on line 15
+[14-May-2016 10:26:13 CST6CDT] PHP Fatal error:  Call to undefined function add_shortcode() in /home/gocredit/public_html/wp-content/plugins/showcase-visual-composer-addon/includes/shortcode-showcase.php on line 133
+[14-May-2016 20:36:18 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/gocredit/public_html/wp-content/plugins/showcase-visual-composer-addon/includes/showcase_meta_box.php on line 82
